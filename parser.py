@@ -4,6 +4,8 @@ import pandas as pd
 import schedule
 import time
 from datetime import datetime
+import os
+from git import Repo
 
 def parse():    
     path = ""
@@ -211,10 +213,20 @@ def parse():
     # dead = {'CityCode': city_codes, 'CityName': cities, 'death': death_list}
     # deaths_df = pd.DataFrame(dead)
     # deaths_df.to_csv(path, index=False, sep=';')
-    '''
+    '''    
+    try:
+        repo = Repo(os.getcwd())
+        repo.git.add(update=True)
+        repo.index.commit('test of automated commit')
+        origin = repo.remote(name='origin')
+        origin.push()
+    except:
+        print('error happened')
 
-schedule.every(3).hour.do(parse)
-# schedule.every().day.at("22:45").do(parse)
+    #repo.git.commit('-m', 'test of automated commit', author='talgat90.07@gmail.com')
+
+# schedule.every(3).hour.do(parse)
+schedule.every().day.at("05:28").do(parse)
 
 while True:
     schedule.run_pending()
