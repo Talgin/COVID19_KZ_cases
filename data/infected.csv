@@ -1,0 +1,523 @@
+date,codes,names,infected
+2020-03-12,KAZ,Kazakhstan,0
+2020-03-12,AST,Nur-Sultan,0
+2020-03-12,ALA,Almaty,0
+2020-03-12,SHY,Shymkent,0
+2020-03-12,AKM,Aqmola oblysy,0
+2020-03-12,AKT,Aqtobe oblysy,0
+2020-03-12,ALM,Almaty oblysy,0
+2020-03-12,ATY,Atyrau oblysy,0
+2020-03-12,VOS,Shyghys Qazaqstan oblysy,0
+2020-03-12,ZHA,Zhambyl oblysy,0
+2020-03-12,ZAP,Batys Qazaqstan oblysy,0
+2020-03-12,KAR,Qaraghandy oblysy,0
+2020-03-12,KUS,Qostanay oblysy,0
+2020-03-12,KZY,Qyzylorda oblysy,0
+2020-03-12,MAN,Mangghystau oblysy,0
+2020-03-12,PAV,Pavlodar oblysy,0
+2020-03-12,SEV,Soltustik Qazaqstan oblysy,0
+2020-03-12,YUS,Turkistan oblysy,0
+2020-03-13,KAZ,Kazakhstan,4
+2020-03-13,AST,Nur-Sultan,1
+2020-03-13,ALA,Almaty,3
+2020-03-13,SHY,Shymkent,0
+2020-03-13,AKM,Aqmola oblysy,0
+2020-03-13,AKT,Aqtobe oblysy,0
+2020-03-13,ALM,Almaty oblysy,0
+2020-03-13,ATY,Atyrau oblysy,0
+2020-03-13,VOS,Shyghys Qazaqstan oblysy,0
+2020-03-13,ZHA,Zhambyl oblysy,0
+2020-03-13,ZAP,Batys Qazaqstan oblysy,0
+2020-03-13,KAR,Qaraghandy oblysy,0
+2020-03-13,KUS,Qostanay oblysy,0
+2020-03-13,KZY,Qyzylorda oblysy,0
+2020-03-13,MAN,Mangghystau oblysy,0
+2020-03-13,PAV,Pavlodar oblysy,0
+2020-03-13,SEV,Soltustik Qazaqstan oblysy,0
+2020-03-13,YUS,Turkistan oblysy,0
+2020-03-14,KAZ,Kazakhstan,6
+2020-03-14,AST,Nur-Sultan,2
+2020-03-14,ALA,Almaty,4
+2020-03-14,SHY,Shymkent,0
+2020-03-14,AKM,Aqmola oblysy,0
+2020-03-14,AKT,Aqtobe oblysy,0
+2020-03-14,ALM,Almaty oblysy,0
+2020-03-14,ATY,Atyrau oblysy,0
+2020-03-14,VOS,Shyghys Qazaqstan oblysy,0
+2020-03-14,ZHA,Zhambyl oblysy,0
+2020-03-14,ZAP,Batys Qazaqstan oblysy,0
+2020-03-14,KAR,Qaraghandy oblysy,0
+2020-03-14,KUS,Qostanay oblysy,0
+2020-03-14,KZY,Qyzylorda oblysy,0
+2020-03-14,MAN,Mangghystau oblysy,0
+2020-03-14,PAV,Pavlodar oblysy,0
+2020-03-14,SEV,Soltustik Qazaqstan oblysy,0
+2020-03-14,YUS,Turkistan oblysy,0
+2020-03-15,KAZ,Kazakhstan,9
+2020-03-15,AST,Nur-Sultan,2
+2020-03-15,ALA,Almaty,7
+2020-03-15,SHY,Shymkent,0
+2020-03-15,AKM,Aqmola oblysy,0
+2020-03-15,AKT,Aqtobe oblysy,0
+2020-03-15,ALM,Almaty oblysy,0
+2020-03-15,ATY,Atyrau oblysy,0
+2020-03-15,VOS,Shyghys Qazaqstan oblysy,0
+2020-03-15,ZHA,Zhambyl oblysy,0
+2020-03-15,ZAP,Batys Qazaqstan oblysy,0
+2020-03-15,KAR,Qaraghandy oblysy,0
+2020-03-15,KUS,Qostanay oblysy,0
+2020-03-15,KZY,Qyzylorda oblysy,0
+2020-03-15,MAN,Mangghystau oblysy,0
+2020-03-15,PAV,Pavlodar oblysy,0
+2020-03-15,SEV,Soltustik Qazaqstan oblysy,0
+2020-03-15,YUS,Turkistan oblysy,0
+2020-03-16,KAZ,Kazakhstan,10
+2020-03-16,AST,Nur-Sultan,2
+2020-03-16,ALA,Almaty,8
+2020-03-16,SHY,Shymkent,0
+2020-03-16,AKM,Aqmola oblysy,0
+2020-03-16,AKT,Aqtobe oblysy,0
+2020-03-16,ALM,Almaty oblysy,0
+2020-03-16,ATY,Atyrau oblysy,0
+2020-03-16,VOS,Shyghys Qazaqstan oblysy,0
+2020-03-16,ZHA,Zhambyl oblysy,0
+2020-03-16,ZAP,Batys Qazaqstan oblysy,0
+2020-03-16,KAR,Qaraghandy oblysy,0
+2020-03-16,KUS,Qostanay oblysy,0
+2020-03-16,KZY,Qyzylorda oblysy,0
+2020-03-16,MAN,Mangghystau oblysy,0
+2020-03-16,PAV,Pavlodar oblysy,0
+2020-03-16,SEV,Soltustik Qazaqstan oblysy,0
+2020-03-16,YUS,Turkistan oblysy,0
+2020-03-17,KAZ,Kazakhstan,33
+2020-03-17,AST,Nur-Sultan,18
+2020-03-17,ALA,Almaty,15
+2020-03-17,SHY,Shymkent,0
+2020-03-17,AKM,Aqmola oblysy,0
+2020-03-17,AKT,Aqtobe oblysy,0
+2020-03-17,ALM,Almaty oblysy,0
+2020-03-17,ATY,Atyrau oblysy,0
+2020-03-17,VOS,Shyghys Qazaqstan oblysy,0
+2020-03-17,ZHA,Zhambyl oblysy,0
+2020-03-17,ZAP,Batys Qazaqstan oblysy,0
+2020-03-17,KAR,Qaraghandy oblysy,0
+2020-03-17,KUS,Qostanay oblysy,0
+2020-03-17,KZY,Qyzylorda oblysy,0
+2020-03-17,MAN,Mangghystau oblysy,0
+2020-03-17,PAV,Pavlodar oblysy,0
+2020-03-17,SEV,Soltustik Qazaqstan oblysy,0
+2020-03-17,YUS,Turkistan oblysy,0
+2020-03-18,KAZ,Kazakhstan,36
+2020-03-18,AST,Nur-Sultan,18
+2020-03-18,ALA,Almaty,18
+2020-03-18,SHY,Shymkent,0
+2020-03-18,AKM,Aqmola oblysy,0
+2020-03-18,AKT,Aqtobe oblysy,0
+2020-03-18,ALM,Almaty oblysy,0
+2020-03-18,ATY,Atyrau oblysy,0
+2020-03-18,VOS,Shyghys Qazaqstan oblysy,0
+2020-03-18,ZHA,Zhambyl oblysy,0
+2020-03-18,ZAP,Batys Qazaqstan oblysy,0
+2020-03-18,KAR,Qaraghandy oblysy,0
+2020-03-18,KUS,Qostanay oblysy,0
+2020-03-18,KZY,Qyzylorda oblysy,0
+2020-03-18,MAN,Mangghystau oblysy,0
+2020-03-18,PAV,Pavlodar oblysy,0
+2020-03-18,SEV,Soltustik Qazaqstan oblysy,0
+2020-03-18,YUS,Turkistan oblysy,0
+2020-03-19,KAZ,Kazakhstan,44
+2020-03-19,AST,Nur-Sultan,25
+2020-03-19,ALA,Almaty,19
+2020-03-19,SHY,Shymkent,0
+2020-03-19,AKM,Aqmola oblysy,0
+2020-03-19,AKT,Aqtobe oblysy,0
+2020-03-19,ALM,Almaty oblysy,0
+2020-03-19,ATY,Atyrau oblysy,0
+2020-03-19,VOS,Shyghys Qazaqstan oblysy,0
+2020-03-19,ZHA,Zhambyl oblysy,0
+2020-03-19,ZAP,Batys Qazaqstan oblysy,0
+2020-03-19,KAR,Qaraghandy oblysy,0
+2020-03-19,KUS,Qostanay oblysy,0
+2020-03-19,KZY,Qyzylorda oblysy,0
+2020-03-19,MAN,Mangghystau oblysy,0
+2020-03-19,PAV,Pavlodar oblysy,0
+2020-03-19,SEV,Soltustik Qazaqstan oblysy,0
+2020-03-19,YUS,Turkistan oblysy,0
+2020-03-20,KAZ,Kazakhstan,52
+2020-03-20,AST,Nur-Sultan,28
+2020-03-20,ALA,Almaty,22
+2020-03-20,SHY,Shymkent,0
+2020-03-20,AKM,Aqmola oblysy,0
+2020-03-20,AKT,Aqtobe oblysy,0
+2020-03-20,ALM,Almaty oblysy,0
+2020-03-20,ATY,Atyrau oblysy,0
+2020-03-20,VOS,Shyghys Qazaqstan oblysy,0
+2020-03-20,ZHA,Zhambyl oblysy,0
+2020-03-20,ZAP,Batys Qazaqstan oblysy,0
+2020-03-20,KAR,Qaraghandy oblysy,2
+2020-03-20,KUS,Qostanay oblysy,0
+2020-03-20,KZY,Qyzylorda oblysy,0
+2020-03-20,MAN,Mangghystau oblysy,0
+2020-03-20,PAV,Pavlodar oblysy,0
+2020-03-20,SEV,Soltustik Qazaqstan oblysy,0
+2020-03-20,YUS,Turkistan oblysy,0
+2020-03-21,KAZ,Kazakhstan,54
+2020-03-21,AST,Nur-Sultan,29
+2020-03-21,ALA,Almaty,22
+2020-03-21,SHY,Shymkent,0
+2020-03-21,AKM,Aqmola oblysy,0
+2020-03-21,AKT,Aqtobe oblysy,0
+2020-03-21,ALM,Almaty oblysy,1
+2020-03-21,ATY,Atyrau oblysy,0
+2020-03-21,VOS,Shyghys Qazaqstan oblysy,0
+2020-03-21,ZHA,Zhambyl oblysy,0
+2020-03-21,ZAP,Batys Qazaqstan oblysy,0
+2020-03-21,KAR,Qaraghandy oblysy,2
+2020-03-21,KUS,Qostanay oblysy,0
+2020-03-21,KZY,Qyzylorda oblysy,0
+2020-03-21,MAN,Mangghystau oblysy,0
+2020-03-21,PAV,Pavlodar oblysy,0
+2020-03-21,SEV,Soltustik Qazaqstan oblysy,0
+2020-03-21,YUS,Turkistan oblysy,0
+2020-03-22,KAZ,Kazakhstan,60
+2020-03-22,AST,Nur-Sultan,31
+2020-03-22,ALA,Almaty,25
+2020-03-22,SHY,Shymkent,0
+2020-03-22,AKM,Aqmola oblysy,0
+2020-03-22,AKT,Aqtobe oblysy,1
+2020-03-22,ALM,Almaty oblysy,1
+2020-03-22,ATY,Atyrau oblysy,0
+2020-03-22,VOS,Shyghys Qazaqstan oblysy,0
+2020-03-22,ZHA,Zhambyl oblysy,0
+2020-03-22,ZAP,Batys Qazaqstan oblysy,0
+2020-03-22,KAR,Qaraghandy oblysy,2
+2020-03-22,KUS,Qostanay oblysy,0
+2020-03-22,KZY,Qyzylorda oblysy,0
+2020-03-22,MAN,Mangghystau oblysy,0
+2020-03-22,PAV,Pavlodar oblysy,0
+2020-03-22,SEV,Soltustik Qazaqstan oblysy,0
+2020-03-22,YUS,Turkistan oblysy,0
+2020-03-23,KAZ,Kazakhstan,62
+2020-03-23,AST,Nur-Sultan,32
+2020-03-23,ALA,Almaty,26
+2020-03-23,SHY,Shymkent,0
+2020-03-23,AKM,Aqmola oblysy,0
+2020-03-23,AKT,Aqtobe oblysy,1
+2020-03-23,ALM,Almaty oblysy,1
+2020-03-23,ATY,Atyrau oblysy,0
+2020-03-23,VOS,Shyghys Qazaqstan oblysy,0
+2020-03-23,ZHA,Zhambyl oblysy,0
+2020-03-23,ZAP,Batys Qazaqstan oblysy,0
+2020-03-23,KAR,Qaraghandy oblysy,2
+2020-03-23,KUS,Qostanay oblysy,0
+2020-03-23,KZY,Qyzylorda oblysy,0
+2020-03-23,MAN,Mangghystau oblysy,0
+2020-03-23,PAV,Pavlodar oblysy,0
+2020-03-23,SEV,Soltustik Qazaqstan oblysy,0
+2020-03-23,YUS,Turkistan oblysy,0
+2020-03-24,KAZ,Kazakhstan,72
+2020-03-24,AST,Nur-Sultan,36
+2020-03-24,ALA,Almaty,29
+2020-03-24,SHY,Shymkent,1
+2020-03-24,AKM,Aqmola oblysy,0
+2020-03-24,AKT,Aqtobe oblysy,1
+2020-03-24,ALM,Almaty oblysy,1
+2020-03-24,ATY,Atyrau oblysy,0
+2020-03-24,VOS,Shyghys Qazaqstan oblysy,0
+2020-03-24,ZHA,Zhambyl oblysy,1
+2020-03-24,ZAP,Batys Qazaqstan oblysy,0
+2020-03-24,KAR,Qaraghandy oblysy,2
+2020-03-24,KUS,Qostanay oblysy,0
+2020-03-24,KZY,Qyzylorda oblysy,0
+2020-03-24,MAN,Mangghystau oblysy,0
+2020-03-24,PAV,Pavlodar oblysy,0
+2020-03-24,SEV,Soltustik Qazaqstan oblysy,1
+2020-03-24,YUS,Turkistan oblysy,0
+2020-03-25,KAZ,Kazakhstan,80
+2020-03-25,AST,Nur-Sultan,41
+2020-03-25,ALA,Almaty,31
+2020-03-25,SHY,Shymkent,2
+2020-03-25,AKM,Aqmola oblysy,0
+2020-03-25,AKT,Aqtobe oblysy,1
+2020-03-25,ALM,Almaty oblysy,1
+2020-03-25,ATY,Atyrau oblysy,0
+2020-03-25,VOS,Shyghys Qazaqstan oblysy,0
+2020-03-25,ZHA,Zhambyl oblysy,1
+2020-03-25,ZAP,Batys Qazaqstan oblysy,0
+2020-03-25,KAR,Qaraghandy oblysy,2
+2020-03-25,KUS,Qostanay oblysy,0
+2020-03-25,KZY,Qyzylorda oblysy,0
+2020-03-25,MAN,Mangghystau oblysy,0
+2020-03-25,PAV,Pavlodar oblysy,0
+2020-03-25,SEV,Soltustik Qazaqstan oblysy,1
+2020-03-25,YUS,Turkistan oblysy,0
+2020-03-26,KAZ,Kazakhstan,112
+2020-03-26,AST,Nur-Sultan,61
+2020-03-26,ALA,Almaty,40
+2020-03-26,SHY,Shymkent,2
+2020-03-26,AKM,Aqmola oblysy,0
+2020-03-26,AKT,Aqtobe oblysy,1
+2020-03-26,ALM,Almaty oblysy,1
+2020-03-26,ATY,Atyrau oblysy,0
+2020-03-26,VOS,Shyghys Qazaqstan oblysy,0
+2020-03-26,ZHA,Zhambyl oblysy,2
+2020-03-26,ZAP,Batys Qazaqstan oblysy,0
+2020-03-26,KAR,Qaraghandy oblysy,4
+2020-03-26,KUS,Qostanay oblysy,0
+2020-03-26,KZY,Qyzylorda oblysy,0
+2020-03-26,MAN,Mangghystau oblysy,0
+2020-03-26,PAV,Pavlodar oblysy,0
+2020-03-26,SEV,Soltustik Qazaqstan oblysy,1
+2020-03-26,YUS,Turkistan oblysy,0
+2020-03-27,KAZ,Kazakhstan,150
+2020-03-27,AST,Nur-Sultan,75
+2020-03-27,ALA,Almaty,55
+2020-03-27,SHY,Shymkent,2
+2020-03-27,AKM,Aqmola oblysy,3
+2020-03-27,AKT,Aqtobe oblysy,1
+2020-03-27,ALM,Almaty oblysy,1
+2020-03-27,ATY,Atyrau oblysy,3
+2020-03-27,VOS,Shyghys Qazaqstan oblysy,0
+2020-03-27,ZHA,Zhambyl oblysy,3
+2020-03-27,ZAP,Batys Qazaqstan oblysy,0
+2020-03-27,KAR,Qaraghandy oblysy,4
+2020-03-27,KUS,Qostanay oblysy,0
+2020-03-27,KZY,Qyzylorda oblysy,0
+2020-03-27,MAN,Mangghystau oblysy,1
+2020-03-27,PAV,Pavlodar oblysy,1
+2020-03-27,SEV,Soltustik Qazaqstan oblysy,1
+2020-03-27,YUS,Turkistan oblysy,0
+2020-03-28,KAZ,Kazakhstan,228
+2020-03-28,AST,Nur-Sultan,135
+2020-03-28,ALA,Almaty,59
+2020-03-28,SHY,Shymkent,2
+2020-03-28,AKM,Aqmola oblysy,6
+2020-03-28,AKT,Aqtobe oblysy,1
+2020-03-28,ALM,Almaty oblysy,4
+2020-03-28,ATY,Atyrau oblysy,5
+2020-03-28,VOS,Shyghys Qazaqstan oblysy,2
+2020-03-28,ZHA,Zhambyl oblysy,3
+2020-03-28,ZAP,Batys Qazaqstan oblysy,0
+2020-03-28,KAR,Qaraghandy oblysy,7
+2020-03-28,KUS,Qostanay oblysy,0
+2020-03-28,KZY,Qyzylorda oblysy,1
+2020-03-28,MAN,Mangghystau oblysy,1
+2020-03-28,PAV,Pavlodar oblysy,1
+2020-03-28,SEV,Soltustik Qazaqstan oblysy,1
+2020-03-28,YUS,Turkistan oblysy,0
+2020-03-29,KAZ,Kazakhstan,283
+2020-03-29,AST,Nur-Sultan,167
+2020-03-29,ALA,Almaty,70
+2020-03-29,SHY,Shymkent,2
+2020-03-29,AKM,Aqmola oblysy,6
+2020-03-29,AKT,Aqtobe oblysy,1
+2020-03-29,ALM,Almaty oblysy,6
+2020-03-29,ATY,Atyrau oblysy,12
+2020-03-29,VOS,Shyghys Qazaqstan oblysy,2
+2020-03-29,ZHA,Zhambyl oblysy,3
+2020-03-29,ZAP,Batys Qazaqstan oblysy,2
+2020-03-29,KAR,Qaraghandy oblysy,7
+2020-03-29,KUS,Qostanay oblysy,0
+2020-03-29,KZY,Qyzylorda oblysy,2
+2020-03-29,MAN,Mangghystau oblysy,1
+2020-03-29,PAV,Pavlodar oblysy,1
+2020-03-29,SEV,Soltustik Qazaqstan oblysy,1
+2020-03-29,YUS,Turkistan oblysy,0
+2020-03-30,KAZ,Kazakhstan,302
+2020-03-30,AST,Nur-Sultan,168
+2020-03-30,ALA,Almaty,73
+2020-03-30,SHY,Shymkent,2
+2020-03-30,AKM,Aqmola oblysy,9
+2020-03-30,AKT,Aqtobe oblysy,2
+2020-03-30,ALM,Almaty oblysy,8
+2020-03-30,ATY,Atyrau oblysy,12
+2020-03-30,VOS,Shyghys Qazaqstan oblysy,2
+2020-03-30,ZHA,Zhambyl oblysy,3
+2020-03-30,ZAP,Batys Qazaqstan oblysy,2
+2020-03-30,KAR,Qaraghandy oblysy,13
+2020-03-30,KUS,Qostanay oblysy,0
+2020-03-30,KZY,Qyzylorda oblysy,5
+2020-03-30,MAN,Mangghystau oblysy,1
+2020-03-30,PAV,Pavlodar oblysy,1
+2020-03-30,SEV,Soltustik Qazaqstan oblysy,1
+2020-03-30,YUS,Turkistan oblysy,0
+2020-03-31,KAZ,Kazakhstan,340
+2020-03-31,AST,Nur-Sultan,178
+2020-03-31,ALA,Almaty,82
+2020-03-31,SHY,Shymkent,2
+2020-03-31,AKM,Aqmola oblysy,10
+2020-03-31,AKT,Aqtobe oblysy,3
+2020-03-31,ALM,Almaty oblysy,8
+2020-03-31,ATY,Atyrau oblysy,13
+2020-03-31,VOS,Shyghys Qazaqstan oblysy,2
+2020-03-31,ZHA,Zhambyl oblysy,3
+2020-03-31,ZAP,Batys Qazaqstan oblysy,2
+2020-03-31,KAR,Qaraghandy oblysy,13
+2020-03-31,KUS,Qostanay oblysy,0
+2020-03-31,KZY,Qyzylorda oblysy,18
+2020-03-31,MAN,Mangghystau oblysy,1
+2020-03-31,PAV,Pavlodar oblysy,1
+2020-03-31,SEV,Soltustik Qazaqstan oblysy,3
+2020-03-31,YUS,Turkistan oblysy,1
+2020-04-01,KAZ,Kazakhstan,380
+2020-04-01,AST,Nur-Sultan,184
+2020-04-01,ALA,Almaty,86
+2020-04-01,SHY,Shymkent,3
+2020-04-01,AKM,Aqmola oblysy,19
+2020-04-01,AKT,Aqtobe oblysy,4
+2020-04-01,ALM,Almaty oblysy,9
+2020-04-01,ATY,Atyrau oblysy,16
+2020-04-01,VOS,Shyghys Qazaqstan oblysy,2
+2020-04-01,ZHA,Zhambyl oblysy,3
+2020-04-01,ZAP,Batys Qazaqstan oblysy,2
+2020-04-01,KAR,Qaraghandy oblysy,15
+2020-04-01,KUS,Qostanay oblysy,0
+2020-04-01,KZY,Qyzylorda oblysy,25
+2020-04-01,MAN,Mangghystau oblysy,1
+2020-04-01,PAV,Pavlodar oblysy,1
+2020-04-01,SEV,Soltustik Qazaqstan oblysy,5
+2020-04-01,YUS,Turkistan oblysy,5
+2020-04-02,KAZ,Kazakhstan,435
+2020-04-02,AST,Nur-Sultan,199
+2020-04-02,ALA,Almaty,91
+2020-04-02,SHY,Shymkent,11
+2020-04-02,AKM,Aqmola oblysy,19
+2020-04-02,AKT,Aqtobe oblysy,5
+2020-04-02,ALM,Almaty oblysy,9
+2020-04-02,ATY,Atyrau oblysy,19
+2020-04-02,VOS,Shyghys Qazaqstan oblysy,3
+2020-04-02,ZHA,Zhambyl oblysy,6
+2020-04-02,ZAP,Batys Qazaqstan oblysy,2
+2020-04-02,KAR,Qaraghandy oblysy,21
+2020-04-02,KUS,Qostanay oblysy,0
+2020-04-02,KZY,Qyzylorda oblysy,26
+2020-04-02,MAN,Mangghystau oblysy,1
+2020-04-02,PAV,Pavlodar oblysy,1
+2020-04-02,SEV,Soltustik Qazaqstan oblysy,11
+2020-04-02,YUS,Turkistan oblysy,11
+2020-04-03,KAZ,Kazakhstan,464
+2020-04-03,AST,Nur-Sultan,202
+2020-04-03,ALA,Almaty,93
+2020-04-03,SHY,Shymkent,11
+2020-04-03,AKM,Aqmola oblysy,19
+2020-04-03,AKT,Aqtobe oblysy,7
+2020-04-03,ALM,Almaty oblysy,9
+2020-04-03,ATY,Atyrau oblysy,20
+2020-04-03,VOS,Shyghys Qazaqstan oblysy,4
+2020-04-03,ZHA,Zhambyl oblysy,8
+2020-04-03,ZAP,Batys Qazaqstan oblysy,2
+2020-04-03,KAR,Qaraghandy oblysy,22
+2020-04-03,KUS,Qostanay oblysy,1
+2020-04-03,KZY,Qyzylorda oblysy,26
+2020-04-03,MAN,Mangghystau oblysy,2
+2020-04-03,PAV,Pavlodar oblysy,1
+2020-04-03,SEV,Soltustik Qazaqstan oblysy,18
+2020-04-03,YUS,Turkistan oblysy,19
+2020-04-04,KAZ,Kazakhstan,531
+2020-04-04,AST,Nur-Sultan,219
+2020-04-04,ALA,Almaty,110
+2020-04-04,SHY,Shymkent,13
+2020-04-04,AKM,Aqmola oblysy,20
+2020-04-04,AKT,Aqtobe oblysy,10
+2020-04-04,ALM,Almaty oblysy,10
+2020-04-04,ATY,Atyrau oblysy,22
+2020-04-04,VOS,Shyghys Qazaqstan oblysy,4
+2020-04-04,ZHA,Zhambyl oblysy,11
+2020-04-04,ZAP,Batys Qazaqstan oblysy,2
+2020-04-04,KAR,Qaraghandy oblysy,27
+2020-04-04,KUS,Qostanay oblysy,1
+2020-04-04,KZY,Qyzylorda oblysy,30
+2020-04-04,MAN,Mangghystau oblysy,3
+2020-04-04,PAV,Pavlodar oblysy,1
+2020-04-04,SEV,Soltustik Qazaqstan oblysy,25
+2020-04-04,YUS,Turkistan oblysy,23
+2020-04-05,KAZ,Kazakhstan,584
+2020-04-05,AST,Nur-Sultan,219
+2020-04-05,ALA,Almaty,116
+2020-04-05,SHY,Shymkent,14
+2020-04-05,AKM,Aqmola oblysy,23
+2020-04-05,AKT,Aqtobe oblysy,11
+2020-04-05,ALM,Almaty oblysy,10
+2020-04-05,ATY,Atyrau oblysy,29
+2020-04-05,VOS,Shyghys Qazaqstan oblysy,5
+2020-04-05,ZHA,Zhambyl oblysy,28
+2020-04-05,ZAP,Batys Qazaqstan oblysy,2
+2020-04-05,KAR,Qaraghandy oblysy,32
+2020-04-05,KUS,Qostanay oblysy,1
+2020-04-05,KZY,Qyzylorda oblysy,37
+2020-04-05,MAN,Mangghystau oblysy,3
+2020-04-05,PAV,Pavlodar oblysy,1
+2020-04-05,SEV,Soltustik Qazaqstan oblysy,25
+2020-04-05,YUS,Turkistan oblysy,28
+2020-04-06,KAZ,Kazakhstan,662
+2020-04-06,AST,Nur-Sultan,221
+2020-04-06,ALA,Almaty,119
+2020-04-06,SHY,Shymkent,19
+2020-04-06,AKM,Aqmola oblysy,42
+2020-04-06,AKT,Aqtobe oblysy,11
+2020-04-06,ALM,Almaty oblysy,10
+2020-04-06,ATY,Atyrau oblysy,29
+2020-04-06,VOS,Shyghys Qazaqstan oblysy,6
+2020-04-06,ZHA,Zhambyl oblysy,40
+2020-04-06,ZAP,Batys Qazaqstan oblysy,2
+2020-04-06,KAR,Qaraghandy oblysy,48
+2020-04-06,KUS,Qostanay oblysy,1
+2020-04-06,KZY,Qyzylorda oblysy,50
+2020-04-06,MAN,Mangghystau oblysy,5
+2020-04-06,PAV,Pavlodar oblysy,1
+2020-04-06,SEV,Soltustik Qazaqstan oblysy,25
+2020-04-06,YUS,Turkistan oblysy,33
+2020-04-07,KAZ,Kazakhstan,697
+2020-04-07,AST,Nur-Sultan,222
+2020-04-07,ALA,Almaty,119
+2020-04-07,SHY,Shymkent,20
+2020-04-07,AKM,Aqmola oblysy,42
+2020-04-07,AKT,Aqtobe oblysy,11
+2020-04-07,ALM,Almaty oblysy,10
+2020-04-07,ATY,Atyrau oblysy,32
+2020-04-07,VOS,Shyghys Qazaqstan oblysy,6
+2020-04-07,ZHA,Zhambyl oblysy,45
+2020-04-07,ZAP,Batys Qazaqstan oblysy,2
+2020-04-07,KAR,Qaraghandy oblysy,55
+2020-04-07,KUS,Qostanay oblysy,3
+2020-04-07,KZY,Qyzylorda oblysy,66
+2020-04-07,MAN,Mangghystau oblysy,5
+2020-04-07,PAV,Pavlodar oblysy,1
+2020-04-07,SEV,Soltustik Qazaqstan oblysy,25
+2020-04-07,YUS,Turkistan oblysy,33
+2020-04-08,KAZ,Kazakhstan,727
+2020-04-08,AST,Nur-Sultan,223
+2020-04-08,ALA,Almaty,119
+2020-04-08,SHY,Shymkent,23
+2020-04-08,AKM,Aqmola oblysy,43
+2020-04-08,AKT,Aqtobe oblysy,11
+2020-04-08,ALM,Almaty oblysy,10
+2020-04-08,ATY,Atyrau oblysy,36
+2020-04-08,VOS,Shyghys Qazaqstan oblysy,6
+2020-04-08,ZHA,Zhambyl oblysy,45
+2020-04-08,ZAP,Batys Qazaqstan oblysy,2
+2020-04-08,KAR,Qaraghandy oblysy,55
+2020-04-08,KUS,Qostanay oblysy,3
+2020-04-08,KZY,Qyzylorda oblysy,85
+2020-04-08,MAN,Mangghystau oblysy,6
+2020-04-08,PAV,Pavlodar oblysy,1
+2020-04-08,SEV,Soltustik Qazaqstan oblysy,25
+2020-04-08,YUS,Turkistan oblysy,34
+2020-04-09,KAZ,Kazakhstan,727
+2020-04-09,AST,Nur-Sultan,223
+2020-04-09,ALA,Almaty,119
+2020-04-09,SHY,Shymkent,23
+2020-04-09,AKM,Aqmola oblysy,43
+2020-04-09,AKT,Aqtobe oblysy,11
+2020-04-09,ALM,Almaty oblysy,10
+2020-04-09,ATY,Atyrau oblysy,36
+2020-04-09,VOS,Shyghys Qazaqstan oblysy,6
+2020-04-09,ZHA,Zhambyl oblysy,45
+2020-04-09,ZAP,Batys Qazaqstan oblysy,2
+2020-04-09,KAR,Qaraghandy oblysy,55
+2020-04-09,KUS,Qostanay oblysy,3
+2020-04-09,KZY,Qyzylorda oblysy,85
+2020-04-09,MAN,Mangghystau oblysy,6
+2020-04-09,PAV,Pavlodar oblysy,1
+2020-04-09,SEV,Soltustik Qazaqstan oblysy,25
+2020-04-09,YUS,Turkistan oblysy,34
