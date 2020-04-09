@@ -15,19 +15,19 @@ def parse():
         "Almaty",#2
         "Shymkent",#8
         "Aqmola oblysy",#5
-        "Aqtöbe oblysy",#12
+        "Aqtobe oblysy",#12
         "Almaty oblysy",#6
-        "Atyraū oblysy",#4
+        "Atyrau oblysy",#4
         "Shyghys Qazaqstan oblysy",#9
         "Zhambyl oblysy",#7
         "Batys Qazaqstan oblysy",#11
         "Qaraghandy oblysy",#3
         "Qostanay oblysy", #17
         "Qyzylorda oblysy",#10
-        "Mangghystaū oblysy",#15
+        "Mangghystau oblysy",#15
         "Pavlodar oblysy",#14
-        "Soltüstik Qazaqstan oblysy",#13
-        "Türkistan oblysy",#16
+        "Soltustik Qazaqstan oblysy",#13
+        "Turkistan oblysy",#16
     ]
     city_codes = [
         "KAZ",
@@ -165,9 +165,11 @@ def parse():
     
     cur_date = datetime.now().strftime("%Y-%m-%d")
     todate = [cur_date] * 18
-    infections = {'date': todate, 'codes': city_codes, 'names': cities, 'infected': infection_list}
-    path_inf = './data/infected.csv'
+    # infections = {'date': todate, 'codes': city_codes, 'names': cities, 'infected': infection_list}
+    infections = {'date': todate, 'codes': city_codes, 'names': cities, 'infected': infection_list, 'recovered': recovered_list, 'deaths': death_list}
+    path_inf = './data/all_data.csv'
     infect_df = pd.read_csv(path_inf, sep=',')
+    # print(infect_df.columns)
     # read_csv and compare dates
     # if last date is current date, just replace this column with new values :)
     if infect_df.iloc[[-1][0]][0] == cur_date:
@@ -213,22 +215,26 @@ def parse():
     # dead = {'CityCode': city_codes, 'CityName': cities, 'death': death_list}
     # deaths_df = pd.DataFrame(dead)
     # deaths_df.to_csv(path, index=False, sep=';')
-    '''    
-    try:
-        repo = Repo(os.getcwd())
-        repo.git.add(update=True)
-        repo.index.commit('test of automated commit')
-        origin = repo.remote(name='origin')
-        origin.push()
-    except:
-        print('error happened')
+    ''' 
+
+    # try:
+    #     repo = Repo(os.getcwd())
+    #     repo.git.add(update=True)
+    #     repo.index.commit('test of automated commit')
+    #     origin = repo.remote(name='origin')
+    #     origin.push()
+    # except:
+    #     print('error happened')
 
     #repo.git.commit('-m', 'test of automated commit', author='talgat90.07@gmail.com')
 
-# schedule.every(3).hour.do(parse)
-schedule.every().day.at("06:17").do(parse)
+parse()
+print('Done updating')
 
-while True:
-    schedule.run_pending()
-    time.sleep(10)
-    print('Done at: ', datetime.now())
+# schedule.every(3).hour.do(parse)
+# schedule.every().day.at("06:17").do(parse)
+
+# while True:
+#     schedule.run_pending()
+#     time.sleep(10)
+#     print('Done at: ', datetime.now())
