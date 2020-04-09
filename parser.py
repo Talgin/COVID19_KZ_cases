@@ -226,7 +226,7 @@ def parse():
     #repo.git.commit('-m', 'test of automated commit', author='talgat90.07@gmail.com')
 
 # schedule.every(3).hour.do(parse)
-schedule.every().day.at("06:03").do(parse)
+schedule.every().day.at("06:17").do(parse)
 
 while True:
     schedule.run_pending()
