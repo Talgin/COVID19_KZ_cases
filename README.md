@@ -6,4 +6,4 @@
 
 # TODO
 - merge recovered list
-- merge deaths list
+- merge deaths list 
