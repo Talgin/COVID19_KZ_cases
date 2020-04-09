@@ -5,5 +5,8 @@
 - .csv file with infected, recovered and death cases across Kazakhstan divided into regions and overall Kazakhstan.
 
 # TODO
-- merge recovered list
-- merge deaths list 
+- [x] merge recovered list: done
+- [x] merge deaths list: done
+- [ ] regenerate data by parsing in simulation project
+- [ ] fix bugs and optimize
+- [ ] auto-upload to git
